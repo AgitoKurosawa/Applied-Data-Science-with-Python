@@ -1,4 +1,4 @@
-# Introduction-to-Data-Science-in-Python
+# Introduction-to-
 the first coursera course of Applied Data Science with Python Specialization
 
 Finished at April 12, 2020
